@@ -1,47 +1,3 @@
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مشروع بوت ذكاء اصطناعي</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #0073e6;
-            text-align: center;
-        }
-        p {
-            margin: 10px 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-        .contact {
-            margin-top: 20px;
-            text-align: center;
-        }
-        .contact a {
-            color: #0073e6;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        .contact a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <h1>مشروع بوت ذكاء اصطناعي</h1>
@@ -56,4 +12,3 @@
         </div>
     </div>
 </body>
-</html>
