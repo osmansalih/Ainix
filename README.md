@@ -7,7 +7,7 @@
         <p>المشروع ما زال في بداياته، لكن عندي طموحات كبيرة لتطويره عشان يكون واحد من أفضل البوتات البتتعامل مع اللهجة السودانية. لو عندك أي مساهمة أو فكرة ممكن تفيد المشروع ده، بنرحب بيها.</p>
         <div class="contact">
             <p>لو عايز تساهم أو تتواصل معاي، ممكن تلقاني على:</p>
-            <p><a href="https://github.com/osmansalih" target="_blank">GitHub</a> | <a href="mailto:iosmansalih11@gmail.com">Email</a> | <a href="instagram.com/_osmansalih_">Instagram</a>
+            <p><a href="https://github.com/osmansalih" target="_blank">GitHub</a> | <a href="mailto:iosmansalih11@gmail.com">Email</a> | <a href="https://instagram.com/_osmansalih_">Instagram</a>
             </p>
         </div>
     </div>
